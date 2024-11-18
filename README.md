@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-![CRUD1]()
+![CRUD1](Screenshot 2024-11-18 172043.png)
 
 ## Getting Started
 
